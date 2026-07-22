@@ -1,0 +1,15 @@
+{
+	"name": "rgdatalake1012",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "371c2195-8a3f-4a5a-80ab-7935125f46d5",
+		"tenantId": "a1b5331c-286a-4094-a5c6-1396e7eb8a3b"
+	}
+}
